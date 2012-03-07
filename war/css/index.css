@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+* {margin: 0px; padding:0px;}
+div#container * { margin:2px; }
+input {width: 98%; font-size:20px;}
+input[type="text"]{height:32px;}
+input[type="button"]{height:42px;}
+.error {font-weight: bold; color:#FF4444;}
+
